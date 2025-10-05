@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#gameCanvas {
+  background: url("assets/bg.jpg") no-repeat center center;
+  background-size: cover;
+  border: 3px solid white;
+}
